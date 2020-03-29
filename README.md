@@ -16,6 +16,6 @@ Give your byte array like a paramater to ByteArrayToObject() function
 
 ### Example for conversion class instance to byte array
 
-Give your byte array like a paramater to ObjectToByteArray() function
+Give your byte array and conversion order array like a paramater to ObjectToByteArray() function
 
-- Conversion.ObjectToByteArray(yourClassInstance);
+- Conversion.ObjectToByteArray(yourClassInstance, conversionOrderArray);
